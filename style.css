@@ -110,7 +110,7 @@ background-color: #ff6c4a;
    }
 
   .resultContainer { 
-/*display: none;*/
+display: none;
 background-color: #fff;
 padding : 20px ;
 border-radius: 4px;
